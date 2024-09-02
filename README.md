@@ -1,1 +1,1 @@
-Android Application that can write by using finger and then save
+Android Application that can write  using finger  then save to mobile 
